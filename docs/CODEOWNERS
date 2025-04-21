@@ -1,5 +1,7 @@
-CODEOWNERS @carolineloppi
+# 1) Dono “fallback” para TODO o repositório:
 
+* @carolineloppi
 
-#infra folder
+# 2) Regra específica PARA o diretório infra/, que vem por último:
+
 infra/ @loppicarol
