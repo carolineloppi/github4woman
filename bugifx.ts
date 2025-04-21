@@ -1,1 +1,1 @@
-//Trying to close issue #9
+//Trying to close issues #4 and #7
